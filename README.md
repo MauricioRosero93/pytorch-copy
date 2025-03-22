@@ -1,7 +1,11 @@
-### Summary
+# Lab 3: Git
 
-This is a copy of [https://github.com/pytorch/pytorch](https://github.com/pytorch/pytorch). 
+## Exercise 1: Create and Fix a merge conflict. Then amend the merge commit.
+![a](Screenshots/1/2.png)
+![b](Screenshots/1/3.png)
+![c](Screenshots/1/4.png)
 
-The repository was used to demonstrate basic git and github concepts to students taking course [17645 - Machine Learning in Production](https://mlip-cmu.github.io/f2024/) in Fall 2024 at Carnegie Mellon University. I was the teaching assistant in charge of this lab assignment.
-
-The exact details of the assignment can be found here - [https://github.com/mlip-cmu/f2024/blob/main/labs/lab03.md](https://github.com/mlip-cmu/f2024/blob/main/labs/lab03.md)
+## Exercise 2: Create a pull request to the original repository
+![d](Screenshots/2/1.png)
+![e](Screenshots/2/2.png)
+![f](Screenshots/2/3.png)
